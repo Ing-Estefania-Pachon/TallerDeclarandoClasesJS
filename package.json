@@ -1,0 +1,15 @@
+{
+  "name": "tallerdeclarandoclasesjs",
+  "version": "1.0.0",
+  "description": "🧪 Laboratorio: Declarando Clases en JavaScript\r Este taller te permitirá practicar los fundamentos de la Programación Orientada a Objetos (POO) en JavaScript mediante la declaración y herencia de clases. Cada ejercicio propone un sistema con clases base y clases hijas, con el objetivo de aplicar conceptos como encapsulamiento, herencia y polimorfismo.",
+  "main": "1_sistema_Vehiculos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
